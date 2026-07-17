@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Hi there 👋, I'm Terrell Johnson
 
 **AI strategy & operations leader. I advise on AI value — and then I build the thing.**
@@ -52,3 +54,5 @@ duration, and annualized revenue-lift projection for A/B experiments in travel c
 
 *All projects are independent portfolio work using mock or public data. Impact figures are
 modeled scenarios, not client results. No affiliation with any company referenced.*
+
+</div>
