@@ -47,7 +47,7 @@ duration, and annualized revenue-lift projection for A/B experiments in travel c
 
 ## Connect
 
-- **LinkedIn:** [linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/YOUR-HANDLE)
+- **LinkedIn:** [linkedin.com/in/trellj](https://www.linkedin.com/in/trellj)
 - **Resume:** available on request via LinkedIn
 
 *All projects are independent portfolio work using mock or public data. Impact figures are
