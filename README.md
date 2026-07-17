@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-# Terrell Johnson
+## Hi there 👋 I'm Terrell Johnson
 
 **AI strategy & operations leader. I advise on AI value — and then I build the thing.**
 
