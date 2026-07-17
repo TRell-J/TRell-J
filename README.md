@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I'm Terrell Johnson
 
-**AI strategy & operations leader. I advise on AI value — and then I build the thing.**
+**AI strategy & operations leader. I advise on AI value and then I build the thing.**
 
 Six-plus years at the intersection of consulting, digital transformation, and AI-enabled
 business solutions. My focus: taking AI from executive slideware to working software with
